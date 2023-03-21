@@ -42,6 +42,8 @@ Contains the application's assets, such as images and icons.
 Contains the application's Vue components.
 #### router/:
 Contains the application's Vue Router configuration.
+#### api/:
+Contains the application's api.
 #### store/:
 Contains the application's Pinia store, which manages the application's state.
 #### views/:
