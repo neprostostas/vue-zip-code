@@ -7,7 +7,6 @@ The application is built using the following technologies:
 #### 1. Vue 3
 #### 2. Vue Router 4
 #### 3. Bootstrap 5
-#### 4. Pinia
 
 ## Installation and Usage
 #### To install and use the application, follow these steps:
@@ -44,8 +43,6 @@ Contains the application's Vue components.
 Contains the application's Vue Router configuration.
 #### api/:
 Contains the application's api.
-#### store/:
-Contains the application's Pinia store, which manages the application's state.
 #### views/:
 Contains the application's views, which are the top-level components that correspond to the application's pages.
 #### App.vue:
